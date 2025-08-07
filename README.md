@@ -24,4 +24,8 @@ Our Telegram bot, StudyGuardianBot, helps users stay focused and motivated by pr
 - `/reminder` – Sets a timed reminder (e.g. `/reminder 10 Stretch!`)  
 
 The bot tracks each user’s study sessions in memory.
+
+## Demo:
+Watch the demo here: [Telegram Bot in action]([https://your.awesomescreenshot.link](https://www.awesomescreenshot.com/video/42889386?key=c94972ac4a25ead77d69318721faf3c2))
+
 # TelegramBotProject
